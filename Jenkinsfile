@@ -1,3 +1,6 @@
+//
+// This Jenkinsfile was built by following the tutorial @ https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/
+//
 pipeline {
     agent {
         docker {
